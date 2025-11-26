@@ -4,11 +4,14 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![CS50AI](https://img.shields.io/badge/CS50-AI-red.svg)](https://cs50.harvard.edu/ai/)
+[![Kaggle](https://img.shields.io/badge/Run%20on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/antoniotamburello/six-degrees-of-separation-optimizing-bfs-cs50ai)
 
 **Language:**  
 🇬🇧 [English Version](#english-version) | 🇮🇹 [Versione Italiana](#versione-italiana)
 
 ---
+
+<a id="english-version"></a>
 
 # 🇬🇧 English Version
 
@@ -83,13 +86,15 @@ jupyter notebook degrees_comparison.ipynb
 
 ---
 
-## Open in Google Colab
+## Open in Kaggle
 
 Open the notebook directly in your browser:
 
-👉 **Colab Link (add your link here)**
+👉 **[Open the Notebook on Kaggle](https://www.kaggle.com/code/antoniotamburello/six-degrees-of-separation-optimizing-bfs-cs50ai)**
 
 ---
+
+<a id="versione-italiana"></a>
 
 # 🇮🇹 Versione Italiana
 
@@ -164,11 +169,11 @@ jupyter notebook degrees_comparison.ipynb
 
 ---
 
-## Apri su Google Colab
+## Apri su Kaggle
 
 Apri il notebook direttamente nel tuo browser:
 
-👉 **Link Colab (aggiungi il tuo link qui)**
+👉 **[Apri il Notebook su Kaggle](https://www.kaggle.com/code/antoniotamburello/six-degrees-of-separation-optimizing-bfs-cs50ai)**
 
 ---
 
