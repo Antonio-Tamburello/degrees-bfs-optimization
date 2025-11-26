@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*-checkpoint.ipynb
+degrees_comparison_executed.ipynb
+degrees_comparison_backup.ipynb
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Script temporanei
+test_setup.py
+update_notebook.py
+create_final_notebook.py
+update_notebook_optional_dfs.py
+benchmark_suite.py
+visualization.py
+
+# File di backup
+*.bak
+*.backup
+
+# Log files
+*.log
